@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bibek Giri
-
+Portfolio: bibekgiri07.com.np
 🎓 IT Student | 💻 Full Stack Developer |  Game Developer 
 
 ## 🚀 About Me
