@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Bibek Giri
 
-🎓 IT Student | 💻 Full Stack Developer | 🎮 Game Developer 
+🎓 IT Student | 💻 Full Stack Developer |  Game Developer 
 
 ## 🚀 About Me
 - 🎓 Bachelor’s student in Information Technology  
 - 💻 Passionate about full stack development, game development and UI/UX design  
-- 🎮 I also build small games using Unity and JavaScript  
+- 🎮 I also build small games using Unity and JavaScript
+- 🎮Currently learning Game development in Unity 
 - 🌍 Based in Nepal  
 - ⚡ Always learning and improving my development skills  
 
