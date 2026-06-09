@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Bibek Giri
-Portfolio: bibekgiri07.com.np
 🎓 IT Student | 💻 Full Stack Developer |  Game Developer 
 
 ## 🚀 About Me
@@ -8,7 +7,8 @@ Portfolio: bibekgiri07.com.np
 - 🎮 I also build small games using Unity and JavaScript
 - 🎮Currently learning Game development in Unity 
 - 🌍 Based in Nepal  
-- ⚡ Always learning and improving my development skills  
+- ⚡ Always learning and improving my development skills
+- 💼 Portfolio: bibekgiri07.com.np  
 
 ## 🛠️ Tech Stack
 **Languages:**
