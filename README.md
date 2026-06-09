@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bibek Giri
-🎓 IT Student | 💻 Full Stack Developer |  Game Developer 
+🎓 IT Student | 💻 Full Stack Developer | 🎮 Game Developer 
 
 ## 🚀 About Me
 - 🎓 Bachelor’s student in Information Technology  
