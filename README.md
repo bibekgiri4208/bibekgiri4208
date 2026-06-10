@@ -22,8 +22,9 @@
 - UI Building (Custom CSS, no heavy frameworks)
 
 **Game Development:**
-- Unity (2D/3D basics, physics, car mechanics experiments)
-- JavaScript mini-games (Hangman, Tic Tac Toe)
+- Unity (2D/3D)
+- JavaScript (Web based games)
+- Godot (2D)
 
 **Tools:**
 - Git & GitHub
