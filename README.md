@@ -31,7 +31,6 @@
 - VS Code
 - Visual Studio Community
 - Unity Engine
-- 
 
 ## 📈 Goals
 - Improve Unity game development skills  
