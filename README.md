@@ -34,7 +34,6 @@
 - Godot
 
 ## 📈 Goals
-- Improve Unity game development skills  
-- Build more advanced full-stack web projects  
+- Improve Unity game development skills as well as Web development skills
 
 ⭐ Thanks for visiting my profile!
