@@ -19,7 +19,7 @@
 <table>
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### 💻 Languages
 
@@ -32,7 +32,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### 🎨 Frontend
 
@@ -44,11 +44,7 @@
 
 </td>
 
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### 🎮 Game Development
 
@@ -60,7 +56,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### 🛠️ Tools
 
