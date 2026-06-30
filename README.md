@@ -50,9 +50,9 @@
 
 - Unity (2D & 3D)
 - Godot (2D)
-- Physics
 - C# Scripting
 - UI Systems
+- Netcode Networking
 
 </td>
 
@@ -64,7 +64,7 @@
 - VS Code
 - Visual Studio
 - Android Studio
-- XAMPP
+- WAMP
 - Unity Engine
 - Godot Engine
 
