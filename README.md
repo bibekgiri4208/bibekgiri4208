@@ -1,39 +1,92 @@
 # 👋 Hi, I'm Bibek Giri
-🎓 IT Student | 💻 Full Stack Developer | 🎮 Game Developer 
+
+🎓 **IT Student** | 💻 **Full Stack Developer** | 🎮 **Game Developer**
+
+---
 
 ## 🚀 About Me
-- 🎓 Bachelor’s student in Information Technology  
-- 💻 Passionate about full stack development, game development and UI/UX design  
-- 🎮 I also build small games using Unity and JavaScript
-- 🎮Currently learning Game development in Unity & App development in Flutter 
-- 💼 Portfolio: bibekgiri07.com.np  
+
+- 🎓 Bachelor's student in Information Technology
+- 💻 Passionate about full stack development, game development, and UI/UX design
+- 🎮 I build games using **Unity** and **Godot**
+- 📱 Currently learning **Unity Game Development** and **Flutter App Development**
+- 🌐 **Portfolio:** https://bibekgiri07.com.np
+
+---
 
 ## 🛠️ Tech Stack
-**Languages:**
-- HTML, CSS, JavaScript
-- C# (Unity)
-- Dart (Flutter)
-- PHP (basic backend work)
 
-**Frontend:**
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 💻 Languages
+
+- HTML
+- CSS
+- JavaScript
+- C#
+- Dart
+- PHP
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🎨 Frontend
+
 - Responsive Web Design
+- UI/UX Design
 - DOM Manipulation
-- UI Building (Custom CSS, no heavy frameworks)
+- Custom CSS
+- Responsive Layouts
 
-**Game Development:**
-- Unity (2D/3D)
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### 🎮 Game Development
+
+- Unity (2D & 3D)
 - Godot (2D)
+- Physics
+- C# Scripting
+- UI Systems
 
-**Tools:**
+</td>
+
+<td valign="top" width="50%">
+
+### 🛠️ Tools
+
 - Git & GitHub
-- XAMPP
-- Android Studio
 - VS Code
-- Visual Studio Community
+- Visual Studio
+- Android Studio
+- XAMPP
 - Unity Engine
-- Godot
+- Godot Engine
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 📈 Goals
-- Improve Unity game development skills as well as Web development skills
 
-⭐ Thanks for visiting my profile!
+- 🚀 Improve my Unity game development skills
+- 🌐 Become a better full stack developer
+- 📱 Build high-quality Flutter applications
+- 🎮 Publish polished indie games
+- 💡 Continuously learn new technologies
+
+---
+
+⭐ **Thanks for visiting my profile!**
