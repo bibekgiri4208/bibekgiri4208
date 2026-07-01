@@ -28,7 +28,7 @@
 - JavaScript
 - C#
 - Dart
-- PHP
+- SQL
 
 </td>
 
