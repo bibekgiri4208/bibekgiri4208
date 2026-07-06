@@ -86,5 +86,13 @@
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibekgiri4208&theme=github-dark)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekgiri4208&theme=tokyo-night&hide_border=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=bibekgiri4208&layout=compact&theme=tokyonight&hide_border=true&hide=hack,php" width="40%" />
+</p>
+
 
 ⭐ **Thanks for visiting my profile!**
