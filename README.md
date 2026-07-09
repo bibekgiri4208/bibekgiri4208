@@ -53,6 +53,7 @@
 * C# Scripting
 * UI Systems
 * Netcode Networking
+* 3D Modeling
 
 </td>
 
@@ -86,7 +87,6 @@
 ### 📈 Goals
 
 * 🚀 Improve my Unity game development skills
-* 🌐 Become a better full stack developer
 * 📱 Build high-quality Flutter applications
 * 🎮 Publish polished indie games
 * 💡 Continuously learn new technologies
@@ -97,8 +97,8 @@
 
 ### 📚 Currently Learning
 
-* 🎨 Blender
-* 📱 Flutter with Dart
+* 🎨 Blender 3D Modeling
+* 📱 Flutter & Dart
 * 🎮 Unity Game Development
 
 </td>
