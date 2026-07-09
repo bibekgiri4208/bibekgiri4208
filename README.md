@@ -62,7 +62,8 @@
 
 - Git & GitHub
 - VS Code
-- Visual Studio
+- Blender
+- Visual Studio Community
 - Android Studio
 - WAMP
 - Unity Engine
