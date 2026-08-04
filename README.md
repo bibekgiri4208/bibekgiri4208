@@ -8,7 +8,7 @@
 
 * 🎓 Bachelor's student in Information Technology
 * 💻 Passionate about full stack development, game development, and UI/UX design
-* 🎮 I build games using **Unity** and **Godot**
+* 🎮 I build games using **Unity**
 * 📱 Currently learning **Unity Game Development** and **Flutter App Development**
 * 🌐 **Portfolio:** https://bibekgiri07.com.np
 
@@ -49,7 +49,6 @@
 ### 🎮 Game Development
 
 * Unity (2D & 3D)
-* Godot (2D)
 * C# Scripting
 * UI Systems
 * Netcode Networking
