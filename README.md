@@ -86,8 +86,8 @@
 ### 📈 Goals
 
 * 🚀 Improve my Unity game development skills
-* 📱 Build high-quality Flutter applications
-* 🎮 Publish polished indie games
+* 📱 Improve Mobile Application development
+* 🎮 Publish polished apps and games
 * 💡 Continuously learn new technologies
 
 </td>
