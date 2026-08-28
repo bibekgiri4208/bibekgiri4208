@@ -120,7 +120,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekgiri4208&theme=tokyo-night&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekgiri4208&theme=tokyo-night&hide_border=true&v=2" width="98%" />
 </p>
 
 ⭐ **Thanks for visiting my profile!**
